@@ -1,0 +1,23 @@
+
+tr, td, th {
+    border-collapse: collapse;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.cabecera {
+    background-color: rgba(0, 0, 0, 0.208);
+}
+
+
+td {
+ background-color: rgb(128, 208, 255);
+}
+
+#interior {
+    border: 4px dotted magenta;
+}
+
+caption {
+    
+}
